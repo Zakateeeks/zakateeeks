@@ -3,8 +3,8 @@
 **About me**
 
 - 👨‍🎓 I’m 18 years old
-- 🎓 I study at UrFU
+- 🎓 I study at [UrFU] (https://urfu.ru/ru/)
 - 💻 I'm a beginner C++ developer
 
 **Contacts**
-- 📱Telegram: @Zakateeek
+- 📱Telegram: [@Zakateeek] (t.me/Zakateeek)
