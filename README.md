@@ -1,6 +1,6 @@
 ### Hi there, I'm Dmitry👋
 
-About me
+𝐀𝐛𝐨𝐮𝐭 𝐦𝐞
 
 - 👨‍🎓 I’m 18 years old
 - 🎓 I study at UrFU
