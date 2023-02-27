@@ -3,7 +3,7 @@
 ## About me
 
 - 👨‍🎓 I’m 18 years old
-- 🎓 I study at [UrFU](https://urfu.ru/ru/)
+- 🎓 I study at [MarMech UrFU](https://urfu.ru/ru/)
 - 💻 I'm a beginner developer
 
 ## Contacts
