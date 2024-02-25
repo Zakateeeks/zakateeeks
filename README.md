@@ -14,9 +14,6 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="60" heigt="60"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="PostgreSQL" alt="PostgreSQL" width="60" height="60"/>
 </div>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zakateeeks&show_icons=true&locale=en&layout=compact" alt="zakateeeks" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zakateeeks&show_icons=true&locale=en" alt="zakateeeks" /></p>
 
 
 ## Contacts
