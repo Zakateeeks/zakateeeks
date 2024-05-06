@@ -2,7 +2,7 @@
 
 ## About me
 
-- 👨‍🎓 I’m 19 years old
+- 👨‍🎓 I’m 20 years old
 - 🎓 I'm a student at [UrFU](https://urfu.ru/ru/)
 - 💻 I'm a beginner developer
 
