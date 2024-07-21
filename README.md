@@ -4,7 +4,7 @@
 
 - 👨‍🎓 I’m 20 years old
 - 🎓 I'm a student at [UrFU](https://urfu.ru/ru/)
-- 💻 I'm a beginner developer
+- 💻 I'm a beginner py developer
 
 ## Skills
 <div>
